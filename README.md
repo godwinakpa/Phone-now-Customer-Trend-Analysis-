@@ -6,7 +6,8 @@ This dashboard is created in Power BI for Claire, the Call Center Manager at
 PhoneNow that reflects all relevant Key Performance Indicators (KPIs) and metrics 
 in the dataset.
 
-### Relevant KPIs worked on include but not limited to:
+### KPSs
+*Relevant KPIs worked on include but not limited to:*
 
 - Overall customer satisfaction
 - Overall calls answered/abandoned
